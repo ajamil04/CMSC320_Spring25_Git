@@ -1,0 +1,2 @@
+Q1: Why might we consider using Git?
+Answer: I've heard Git is a useful tool to work on and post projects. This could be a useful tool for our final project.
